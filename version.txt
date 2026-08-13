@@ -1,1 +1,1 @@
-v1.5.1|https://raw.githubusercontent.com/thanhtrunq09-cmyk/TxHModMenu/main/TxHSilent.dll
+v1.5.2|https://raw.githubusercontent.com/thanhtrunq09-cmyk/TxHModMenu/main/TxHSilent.dll
