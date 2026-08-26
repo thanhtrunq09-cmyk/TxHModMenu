@@ -1,1 +1,1 @@
-v5.0.0|https://github.com/thanhtrunq09-cmyk/TxHModMenu/releases/latest/download/TxHSilent.dll
+v5.1.0|https://github.com/thanhtrunq09-cmyk/TxHModMenu/releases/latest/download/TxHSilent.dll
